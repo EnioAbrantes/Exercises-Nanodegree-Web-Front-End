@@ -1,0 +1,30 @@
+/* add your CSS here */
+span {
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+.box {
+    width: 300px;
+    height: auto;
+    border: 1px solid #cecece;
+    margin: 15px auto;
+    padding: 5px 10px 5px 10px;
+    box-shadow: 3px 3px 5px 0px #aaaaaa;
+}
+.box2 {
+    width: 260px;
+    height: auto;
+    border: 1px solid #cecece;
+    margin: 5px auto;
+    padding: 0px 20px 0px 20px;
+}
+
+#interesting_fact{
+    font-style: italic;
+}
+img{
+    width: 300px;
+}
